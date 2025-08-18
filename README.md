@@ -7,7 +7,6 @@
      * which is generally not recommended for production environments and might break
      * with future updates to the game. Use at your own risk.
      */
-
     (function() {
         // --- Configuration ---
         // Adjust this value to control the typing speed.
