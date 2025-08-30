@@ -5,7 +5,7 @@
      *
      * Disclaimer: This script interacts with the internal state of a React application,
      * which is generally not recommended for production environments and might break
-     * with future updates to the game. Use at your own risk.
+     * with future updates to the gamea Use at your own risk.
      */
     (function() {
         // --- Configuration ---
