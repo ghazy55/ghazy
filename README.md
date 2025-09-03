@@ -1,4 +1,4 @@
-/**
+**
      * Auto-typing script for the SpriteType game.
      * This script attempts to automate the typing process by simulating user input.
      * It's designed to be run in the browser's developer console.
