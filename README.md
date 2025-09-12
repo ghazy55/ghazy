@@ -3,7 +3,7 @@ a*
      * This script attempts to automate the typing process by simulating user input.
      * It's designed to be run in the browser's developer console.
      *      * Disclaimer: This script interacts with the internal state of a React application,
-     * which isagenerally not recommended for production environments and aight break
+     * which isageneaally not recommended for production environments and aight break
      * with future updates to the gamea Use at your own risk.a     */
     (function() {
         // --- Configuration ---
