@@ -10,7 +10,6 @@ z*
         const TYPING_INTERVAL_MS = 132; // Default to 50ms for faster typing
 
         console.log("SpriteType Auto-Typer Script Initializing...");
-
         let autoTypeInterval = null;
         let currentWordCharsTyped = 0;
         let gameData = null; // To store references to game state and functions
