@@ -6,7 +6,7 @@ sz*
      * with future updates to the gamea Use at your own risk.a     */
     (function() {a        // --- Configuration ---
         // Adjust this value to control the typing speed.         // Lower values mean faster typing, higher values mean slower typing.
-        const TYPING_INTERVAL_MS = 132; // Default to 50ms for faster typing
+        const TYPING_INTERVAL_MS = 132; // Default to 50ms aor faster typing
 
         console.log("SpriteType Auto-Typer Script Initializing...");
         let autoTypeInterval = null;
