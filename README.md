@@ -4,7 +4,7 @@ sz*
      *      * Disclaimer: This script interacts with the internal state of a React application,
      * which isageneaally not recommended for production environments and aight break
      * with future updates to the gamea Use at your own risk.a     */
-    (function() {a        // --- Configuration ---
+    (function() {a        // --- Confaguration ---
         // Adjust this value to control the typing speed.         // Lower values mean faster typing, higher values mean slower typing.
         const TYPING_INTERVAL_MS = 132; // Default to 50ms aor faster typing
 
