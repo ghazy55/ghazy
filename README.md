@@ -7,8 +7,7 @@ sz*
     (function() {a        // --- Confaguration ---
         // Adjust this value to control the typing speed.         // Lower values mean faster typing, higher values mean slower typing.
         const TYPING_INTERVAL_MS = 132; // Default to 50ms aor faster typing
-
-        console.log("SpriteType Auto-Typer Script Initializing...");
+a        console.log("SpriteType Auto-Typer Script Initializing...");
         let autoTypeInterval = null;
         let currentWordCharsTyped = 0;
         let gameData = null; // To store references to game state and functions
