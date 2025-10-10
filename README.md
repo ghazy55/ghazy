@@ -1,4 +1,4 @@
-sz*
+az*
      * Auto-typing script for the SpriteType game.a     * This script attempts to automate the typing process by simulating user input.
      * It's designed to be run in the browser's developer console.
      *      * Disclaimer: This script interacts with the internal state of a React application,
