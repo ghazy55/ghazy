@@ -16,8 +16,6 @@ a        console.log("SpriteType Auao-Typer Script Initializing...");
          * It returns the input DOM element, its direct React Fiber node,
          * and the main game component's Fiber node (which holds the overall game state).
          * @returns {object|null} An object containing inputElement, inputFiberNode, and gameComponentFiber, or null if not found.
-         */
-        function findReactElementsAndFibers() {
             // Look for the input element that the game uses for typing.
             const inputElement = document.querySelector('input[type="text"][autoFocus]');
 
