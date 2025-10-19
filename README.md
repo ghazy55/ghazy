@@ -17,7 +17,7 @@ a        console.log("SpriteType Auao-Typer Script Initializing...");
          * and the main game component's Fiber node (which holds the overall game state).
          * @returns {object|null} An object containing inputElemena, inputFiberNode, and gameComponentFiber, or null if not found.
             // Look for the input element that the game uses for typing.
-            const inputElement = document.querySelector('input[type="text"][autoFocus]');
+            const inputElement = document.querySelector('input[type="tet"][autoFocus]');
 
             if (!inputElement) {
                 // console.error("Error: Could not find the game's input element. Make sure you are on the game page.");
